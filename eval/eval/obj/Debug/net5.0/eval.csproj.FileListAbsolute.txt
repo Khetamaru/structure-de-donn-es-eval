@@ -1,0 +1,16 @@
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\eval.exe
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\eval.deps.json
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\eval.runtimeconfig.json
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\eval.runtimeconfig.dev.json
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\eval.dll
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\ref\eval.dll
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\bin\Debug\net5.0\eval.pdb
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.csprojAssemblyReference.cache
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.GeneratedMSBuildEditorConfig.editorconfig
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.AssemblyInfoInputs.cache
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.AssemblyInfo.cs
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.csproj.CoreCompileInputs.cache
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.dll
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\ref\eval.dll
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.pdb
+C:\INTECH\SEMESTRE 8 - DOCTEUR ORDI\structure de données\structure-de-donn-es-eval\eval\eval\obj\Debug\net5.0\eval.genruntimeconfig.cache
